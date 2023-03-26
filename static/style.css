@@ -1,0 +1,32 @@
+h2{
+    color:#FF8C00;
+}
+a {
+    color:black;
+    text-decoration: none;
+  }
+p{
+    
+    padding:5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: #caf8f4;
+    color: #FF8C00;
+}
+.container{
+    
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: #F8F8FF;
+    max-width: 400px;
+    min-width: auto;
+    margin-top:20px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 5px 10px 18px #888888;
+}
+
+
